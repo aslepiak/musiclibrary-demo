@@ -1,0 +1,26 @@
+body{
+  background-color: #fff;
+}
+table{
+  margin-top: 25px;
+}
+td{
+  vertical-align: middle !important;
+}
+th a{
+  cursor: pointer;
+}
+
+.nav{
+  margin-bottom: 50px;
+}
+
+.sample-show-hide {
+  transition: all linear 1s;
+}
+.sample-show-hide.ng-hide {
+  opacity: 0;
+}
+.sample-show-hide.ng-hide-add-active{
+  transition: all linear 1s;
+}

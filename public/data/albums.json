@@ -1,0 +1,607 @@
+[{
+    "artist": "Nirvana",
+    "title": "Bleach",
+    "productionDate" : "1989-06-15T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Nirvana",
+    "title": "Nevermind",
+    "productionDate" : "1991-09-24T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Nirvana",
+    "title": "In Utero",
+    "productionDate" : "1993-09-13T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "Madonna",
+    "productionDate" : "1983-07-27T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "Like a Virgin",
+    "productionDate" : "1984-11-12T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "True Blue",
+    "productionDate" : "1986-07-30T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "Like a Prayer",
+    "productionDate" : "1989-03-21T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "Erotica",
+    "productionDate" : "1992-10-20T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "Bewdtime Stories",
+    "productionDate" : "1994-10-25T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "Ray of Light",
+    "productionDate" : "1997-03-03T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "Music",
+    "productionDate" : "2000-09-19T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "American Life",
+    "productionDate" : "2003-04-22T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "Confessions on a Dance Floor",
+    "productionDate" : "2005-11-11T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "Hard Candy",
+    "productionDate" : "2008-04-19T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "MDNA",
+    "productionDate" : "2012-03-23T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Madonna",
+    "title": "Rebel Heart",
+    "productionDate" : "2015-03-06T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Guano Apes",
+    "title": "Proud Like a God",
+    "productionDate" : "1997-10-06T00:00:00.000Z",
+    "cover" : "guano-apes-proud-like-a-god.jpg"
+},
+{
+    "artist": "Guano Apes",
+    "title": "Don't Give Me Names",
+    "productionDate" : "2000-11-14T00:00:00.000Z"
+
+},
+{
+    "artist": "Guano Apes",
+    "title": "Walking on a Thin Line",
+    "productionDate" : "2003-03-25T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Guano Apes",
+    "title": "Bel Air",
+    "productionDate" : "2011-04-01T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Guano Apes",
+    "title": "Offline",
+    "productionDate" : "2014-05-30T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Prodigy, the",
+    "title": "Experience",
+    "productionDate" : "1992-09-28T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Prodigy, the",
+    "title": "Music for the Jilted Generation",
+    "productionDate" : "1994-07-04T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Prodigy, the",
+    "title": "The Fat of the Land",
+    "productionDate" : "1997-06-30T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Prodigy, the",
+    "title": "Always Outnumbered, Never Outgunned",
+    "productionDate" : "2004-08-11T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Prodigy, the",
+    "title": "Invaders Must Die",
+    "productionDate" : "2009-02-20T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Prodigy, the",
+    "title": "The Day Is My Enemy",
+    "productionDate" : "2015-03-30T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Massive Attack",
+    "title": "Blue Lines",
+    "productionDate" : "1991-06-01T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Massive Attack",
+    "title": "Protection",
+    "productionDate" : "1994-09-26T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Massive Attack",
+    "title": "Mezzanine",
+    "productionDate" : "1998-04-20T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Massive Attack",
+    "title": "100th Window",
+    "productionDate" : "2003-02-10T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Massive Attack",
+    "title": "Heligoland",
+    "productionDate" : "2010-02-08T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Sneaker Pimps",
+    "title": "Becoming X",
+    "productionDate" : "1996-08-19T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Sneaker Pimps",
+    "title": "Becoming Remixed",
+    "productionDate" : "1998-03-10T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Sneaker Pimps",
+    "title": "Splinter",
+    "productionDate" : "1999-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Sneaker Pimps",
+    "title": "Bloodsport",
+    "productionDate" : "2002-01-22T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Bonobo",
+    "title": "Animal Magic",
+    "productionDate" : "2000-07-24T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Bonobo",
+    "title": "Dial 'M' for Monkey",
+    "productionDate" : "2003-06-17T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Bonobo",
+    "title": "Days to Come",
+    "productionDate" : "2006-10-02T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Bonobo",
+    "title": "Black Sands",
+    "productionDate" : "2010-03-29T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Bonobo",
+    "title": "The North Borders",
+    "productionDate" : "2013-03-21T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "System of A Down",
+    "title": "System of A Down",
+    "productionDate" : "1998-06-30T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "System of A Down",
+    "title": "Toxicity",
+    "productionDate" : "2001-10-04T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "System of A Down",
+    "title": "Steal This Album!",
+    "productionDate" : "2002-11-26T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "System of A Down",
+    "title": "Mezmerize",
+    "productionDate" : "2005-05-17T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "System of A Down",
+    "title": "Hypnotize",
+    "productionDate" : "2005-11-22T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+},
+{
+    "artist": "Lorem",
+    "title": "Ipsum",
+    "productionDate" : "2016-09-07T00:00:00.000Z",
+    "cover" : ""
+}
+]
