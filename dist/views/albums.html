@@ -1,0 +1,13 @@
+<div class="container" style="position: relative;min-height: 500px;">
+<spinner></spinner>
+  <table class="table table-striped">
+    <tr>
+      <th><a ng-click="sortBy = 'productionDate'; sortReverse = !sortReverse">Production date</a></th>
+      <th><a ng-click="sortBy = 'artist'; sortReverse = !sortReverse">Artist</a></th>
+      <th><a ng-click="sortBy = 'title'; sortReverse = !sortReverse">Album title</a></th><th>Cover</th></tr>
+    <tr ng-repeat="album in albums | orderBy : sortBy : sortReverse">
+      <td>{{album.productionDate | date: 'dd.MM.yyyy'}}</td><td>{{album.artist}}</td><td>{{album.title}}</td><td><img ng-src="gfx/{{album.cover || 'default.jpg' }}" />{{album.cover_}}</td>
+    </tr>
+
+  </table>
+</div>
